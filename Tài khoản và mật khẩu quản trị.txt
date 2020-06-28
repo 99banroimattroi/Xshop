@@ -1,0 +1,13 @@
+- Thêm /admin để vào trang quản trị
+
+tài khoản: 99banroimattroi@gmail.com
+mật khẩu: dinhhung12345
+
+tài khoản khách: 99banroimattroi1@gmail.com	
+mật khẩu: dinhminh12345
+
+tài khoản nhân viên:99banroimattroi2@gmail.com	
+mật khẩu: dinhtan12345
+
+
+
